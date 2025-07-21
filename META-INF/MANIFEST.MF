@@ -1,0 +1,656 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./
+Permissions: all-permissions
+Class-Path: .
+Rsrc-Main-Class: AIspace.Constraint.ConstraintWindow
+Created-By: 1.8.0_92 (Oracle Corporation)
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
+Name: AIspace/graphToolKit/images/common/finestep.png
+SHA-256-Digest: g0eFgjjRo487hVTlm0EYWEbeQqMr58c1tg1NGmJymjg=
+
+Name: AIspace/cspTools/relations/RelationOr.class
+SHA-256-Digest: JQxTcJE/Ggw9O1INFnJ0StsMssv5pTLgV+6WxGshjvY=
+
+Name: AIspace/graphToolKit/dialogs/ProblemDialog.class
+SHA-256-Digest: 1WgCp1noIygVYeIqEy4BsAR1vVKoe6ItmtznWDozoVY=
+
+Name: AIspace/cspTools/elements/Constraint.class
+SHA-256-Digest: COaVDYne6Yc8LEC1LiG7NvxaPGruSZnbtLHut6NWLHA=
+
+Name: AIspace/graphToolKit/images/neural/Edit24.gif
+SHA-256-Digest: SZHDYP0h8OGMtO5kifoumnlBew14vyQUVHqCKaYVmVY=
+
+Name: AIspace/graphToolKit/dialogs/FontDialog.class
+SHA-256-Digest: spdDYL3MZAh0Tljeb0w7toHqRQcTJzyt7RLqbjq1/aQ=
+
+Name: AIspace/XMLReader/XMLReader.class
+SHA-256-Digest: A/jnbQKJgscrOJuG7ZIEGDzJZ+G0HTzMzMSJ3hbcc34=
+
+Name: AIspace/cspTools/elements/CSPVariable.class
+SHA-256-Digest: Jh+pi1n9FcPfBAGfEMMkSZBHb7rVY8xeHHHWWIrgons=
+
+Name: AIspace/graphToolKit/dialogs/ProblemDialog$1.class
+SHA-256-Digest: jGnVYSy/XRQRtxLPfmLTaBsDJUL8R8CWmpYtNQKF/Ak=
+
+Name: AIspace/cspTools/dialogs/VariableDialog.class
+SHA-256-Digest: 0YZo4lJIEqCionxdaWWLrZ2pqBz7UrqRjd4m3n9pxjE=
+
+Name: AIspace/graphToolKit/elements/EdgeLabel.class
+SHA-256-Digest: VVaJOoXGKPStlE8a1oabfLemHRe/+dgGYxX7WhVCY9M=
+
+Name: AIspace/graphToolKit/images/neural/arrowLeft.png
+SHA-256-Digest: fg547UTgDc6pBnR4P76A5H+EnjJ2+Tqta6TodoaoxNA=
+
+Name: AIspace/graphToolKit/images/neural/randomPara.png
+SHA-256-Digest: MiwMuPSkgCFSwXcWyGu/+4zvvGgGZ8C27p3ar/RIzxE=
+
+Name: AIspace/graphToolKit/Graph.class
+SHA-256-Digest: 57PaKhwRHPzvl115EmWPEJl//Qr21A7h4J7G9ZYRvcU=
+
+Name: AIspace/cspTools/relations/RelationLnLs.class
+SHA-256-Digest: 6z1tIP0aVO3bxhrgioCuPFapgRrT/KvW9EThYeTufnQ=
+
+Name: AIspace/graphToolKit/images/stripsToCSP/Reset.gif
+SHA-256-Digest: T9CFQyYTyYh1Gb/8+/CgikxDF4xiAAJjSqgwg/EV5wA=
+
+Name: AIspace/Constraint/dialogs/SplitNodeDialog.class
+SHA-256-Digest: qJuj4aVVd7n+ztpWJHgXp8OxcUfuXj0gZJ/nAi/M36M=
+
+Name: AIspace/cspTools/elements/ConstraintEdge.class
+SHA-256-Digest: 6N2uQkEEDi6i4GAffqLNm/Ahk/9yJOAlI6yQRSBom0E=
+
+Name: saves/scheduling1.xml
+SHA-256-Digest: LkO2lMft/z26FJ887C+V66mXKpgxc7qndM5dYZi7LZ4=
+
+Name: AIspace/graphToolKit/elements/Edge.class
+SHA-256-Digest: Z9KLt+VABKcadTd0R97vc3z30gGD4/wXr09XMiJf83I=
+
+Name: AIspace/graphToolKit/images/stripsToCSP/gear.png
+SHA-256-Digest: tvMD8yhIZDN299Ig50VcYVcH5pB46BIvQJ37FcqW8SI=
+
+Name: AIspace/graphToolKit/images/hill/stop.gif
+SHA-256-Digest: RkcDNV0ww6c3FI84C0TBWUTsgk4t+ZX0U/EK0HZnZmo=
+
+Name: AIspace/graphToolKit/images/hill/viewCurrentPlan.png
+SHA-256-Digest: kO+UqNlLFCXKVOPabjt16AofuEdOvoaHMlMyr4FB66I=
+
+Name: AIspace/graphToolKit/GraphConsts.class
+SHA-256-Digest: T1J7DoV4YRtMDs8fe3oGvYqdMs5OP5ivVFOt5UGHE04=
+
+Name: AIspace/graphToolKit/images/bayes/optimizeDecision.png
+SHA-256-Digest: IS7sKS/ZKc0s4E5IMtKV+aLWl/eIXmSAHBy0p41XH/g=
+
+Name: AIspace/graphToolKit/images/stripsToCSP/viewNodeInfo.png
+SHA-256-Digest: j5c/Pok7ixTrRLkYa+ylLlX1C9EWARn67cjnyHUCYTk=
+
+Name: AIspace/graphToolKit/dialogs/BasicFrame.class
+SHA-256-Digest: 9ftCqZA/b/hvxCda/ZQY3/z6h50TjBhGCJsugExF94k=
+
+Name: AIspace/graphToolKit/images/search/step.png
+SHA-256-Digest: gp+OLg5Nl3GxpPfIeEXUZ/bcvGEFzw4JSEHAGenQXOM=
+
+Name: AIspace/graphToolKit/images/common/select.png
+SHA-256-Digest: E1v0uwI/MLq9KVEgsrDjv18n2KnANQdkYZAJ/yllgKI=
+
+Name: AIspace/cspTools/elements/VariableEdge.class
+SHA-256-Digest: NnhcjUijeXxLB4Ik8igH0cVTJ0RN28pvwCtFgWFMOuw=
+
+Name: AIspace/cspTools/VE/Factor.class
+SHA-256-Digest: mT6SyQMRdXQXJsuUl0mztYUjYhFRnB2/o4+vw4AP4w0=
+
+Name: AIspace/cspTools/relations/RelationArg.class
+SHA-256-Digest: y1y9oI2ShXtMk+D0RczH7fCIf7a7SvUsU6Zk+89ukw8=
+
+Name: AIspace/graphToolKit/images/neural/quiz.gif
+SHA-256-Digest: SHOLXodBmeeQgK8UiUd82cRaKeOa7tM/VrcdCuI10Jk=
+
+Name: AIspace/graphToolKit/images/stripsToCSP/quiz.gif
+SHA-256-Digest: SHOLXodBmeeQgK8UiUd82cRaKeOa7tM/VrcdCuI10Jk=
+
+Name: AIspace/graphToolKit/images/constraint/hide.png
+SHA-256-Digest: A20UBlXFtHNZesoiXi/pKQlj45xISCWOckH9rWiMkN4=
+
+Name: AIspace/graphToolKit/images/dTree/gear.png
+SHA-256-Digest: tvMD8yhIZDN299Ig50VcYVcH5pB46BIvQJ37FcqW8SI=
+
+Name: AIspace/graphToolKit/images/constraint/StepBack24.gif
+SHA-256-Digest: +3PLSpBsFcaU8rWSj2tckvID7bIyV4MMXTv2mbcKwvs=
+
+Name: AIspace/graphToolKit/images/common/delete.png
+SHA-256-Digest: Oi9vNOk0pR/6dRaVrpdOn7XjVbrMjvOIZlSZrLkEHGU=
+
+Name: AIspace/graphToolKit/images/neural/step.png
+SHA-256-Digest: gp+OLg5Nl3GxpPfIeEXUZ/bcvGEFzw4JSEHAGenQXOM=
+
+Name: AIspace/cspTools/dialogs/AffirmPanel.class
+SHA-256-Digest: 4YBJSwO8i41cDJ2SmJdbLRMixX4AEXSQS3cJl9Ft42E=
+
+Name: AIspace/Constraint/ConstraintCanvas.class
+SHA-256-Digest: HJ0fCsJhIyNb7AFY6qxk/dWk44oc+EcVfbBmbDsEffY=
+
+Name: AIspace/graphToolKit/images/deduction/inspectSubtree.png
+SHA-256-Digest: TiiESn9AwXx6r7jZ10dJrKsvyyCakXmDWZnhQVA+9C0=
+
+Name: AIspace/graphToolKit/images/neural/showPlot.png
+SHA-256-Digest: aRQ3y7MbcBO4C5UPaQK8tM2g7dr2aaPCVOB3PmeSrXg=
+
+Name: AIspace/graphToolKit/images/search/quiz.gif
+SHA-256-Digest: SHOLXodBmeeQgK8UiUd82cRaKeOa7tM/VrcdCuI10Jk=
+
+Name: AIspace/graphToolKit/images/dTree/Reset.gif
+SHA-256-Digest: T9CFQyYTyYh1Gb/8+/CgikxDF4xiAAJjSqgwg/EV5wA=
+
+Name: saves/simple2.xml
+SHA-256-Digest: an8FRSDBWD4s60B0cBUtAD0GLElrPCXFoRDrEkl29Io=
+
+Name: AIspace/graphToolKit/images/constraint/autoarc.png
+SHA-256-Digest: oLsDxcr9YT+wdAS75AejEHoAqWaHPcirbjGt51VQ3Kc=
+
+Name: AIspace/XMLReader/XMLTree.class
+SHA-256-Digest: NPKXtiSzFdpr+Ny5Zdd4VRwdIKsGZ6QWmkTJORtMtHo=
+
+Name: AIspace/graphToolKit/images/deduction/stop.gif
+SHA-256-Digest: RkcDNV0ww6c3FI84C0TBWUTsgk4t+ZX0U/EK0HZnZmo=
+
+Name: AIspace/graphToolKit/images/search/invertgraph.gif
+SHA-256-Digest: FVh007d5DkFlI004nlkJcN5Az4Xf+6a2gLmAzLfCQog=
+
+Name: AIspace/graphToolKit/images/hill/initialize.png
+SHA-256-Digest: 3jGImsihU6C3nt/dxnEohBzpnPuBYGwaPT2cNZo/J0c=
+
+Name: AIspace/graphToolKit/dialogs/BasicDialog.class
+SHA-256-Digest: cw7fR7MPSot4CKFZqcNWid497E5YPH4IyAY0E4jtj4Y=
+
+Name: AIspace/graphToolKit/images/bayes/modifyProbTable.png
+SHA-256-Digest: zxqxM4aInXB1WwOu+KgU3ZNE+jUyOnqWxe6Rq87yvAY=
+
+Name: AIspace/cspTools/relations/RelationTrivial.class
+SHA-256-Digest: uSqYwNfLIwtalmzYXG61azjZg3JJUphJjAbGiMlP21w=
+
+Name: AIspace/XMLReader/Pair.class
+SHA-256-Digest: u+bEXBKZAu6nTNbmgwfNsxsj3S8nCvMpaNWJ6Xi8mdk=
+
+Name: AIspace/graphToolKit/GraphWindow.class
+SHA-256-Digest: nmGYVuV5aLjE98JNll5V1mzyzg3vX+iQ98Ccd8W5Fj8=
+
+Name: AIspace/Constraint/AutoAC.class
+SHA-256-Digest: 3oHGhYYrVNH04J/YJyqWdeuh01SHudnQ9QBWy3n8c0c=
+
+Name: AIspace/cspTools/CSP.class
+SHA-256-Digest: S+szKq5LsaDko4MfPtDiL9s4udsUkO9ZD1YGZY/i658=
+
+Name: AIspace/Constraint/InlineConstraintApplet.class
+SHA-256-Digest: +S6cQu38DGCI5l8w8yXiWqFlYJkAEipzTPOzoEUTSBM=
+
+Name: AIspace/cspTools/Domain.class
+SHA-256-Digest: 9y8hyNsK9s6us0IYYSKhTAWk1g38cYaB41OUgSi8iW4=
+
+Name: AIspace/graphToolKit/images/constraint/cross.PNG
+SHA-256-Digest: oZZo8Neey1T7tBKSGSD6XyDsIkweiHKit2VKKvJNDtk=
+
+Name: AIspace/graphToolKit/images/dTree/stop.gif
+SHA-256-Digest: RkcDNV0ww6c3FI84C0TBWUTsgk4t+ZX0U/EK0HZnZmo=
+
+Name: AIspace/graphToolKit/images/neural/stop.gif
+SHA-256-Digest: RkcDNV0ww6c3FI84C0TBWUTsgk4t+ZX0U/EK0HZnZmo=
+
+Name: AIspace/cspTools/relations/FactorPanel.class
+SHA-256-Digest: I60xIVlq4o+EtmKFjwqHbhqcJ+4ingOP25OCdM+VlWM=
+
+Name: AIspace/graphToolKit/images/bayes/queryNetwork.png
+SHA-256-Digest: s+FHcslmTW90oaJbmT7Um4cEpF+8G4pqKEBpu47owhI=
+
+Name: AIspace/Constraint/ConstraintCSP.class
+SHA-256-Digest: iydqWyv+51S1wytMsVBE+vWTyGylDIZ0YiMBBjqo1YM=
+
+Name: AIspace/cspTools/relations/RelationQueens.class
+SHA-256-Digest: z/gBVhREDhgxDQdpE8Kdn9LFdcPlw1r6RtHFD5IcwDg=
+
+Name: AIspace/graphToolKit/images/common/newEdge2.png
+SHA-256-Digest: AAQw9aCREecuh1BGLaeUf2+IoPsJGWWM7ZM1NnE5PrQ=
+
+Name: AIspace/Constraint/dialogs/AutoSolveOptionsDialog.class
+SHA-256-Digest: wbDC3UkVgjSykvAgpJnl9x3LdbSvFWXO/xSRyYfv1fY=
+
+Name: AIspace/cspTools/relations/RelationArg$mypanel.class
+SHA-256-Digest: gpFf8kqYLRmOdvuybjAwPp8t11uBx0OqRV/0lA7VJe8=
+
+Name: saves/fiveQueens.xml
+SHA-256-Digest: LSGoBK4lxepqeUFkUhvbzKD+JD2yJWijAjtd0xzgbEw=
+
+Name: AIspace/graphToolKit/LabelCanvas.class
+SHA-256-Digest: OIeqGlAn6ziJtLTauHoYUYHLBiU9yRH0Ixs/CEunoz8=
+
+Name: AIspace/graphToolKit/images/bayes/select.png
+SHA-256-Digest: E1v0uwI/MLq9KVEgsrDjv18n2KnANQdkYZAJ/yllgKI=
+
+Name: AIspace/graphToolKit/images/dTree/quiz.gif
+SHA-256-Digest: SHOLXodBmeeQgK8UiUd82cRaKeOa7tM/VrcdCuI10Jk=
+
+Name: AIspace/graphToolKit/images/neural/arrowRight.png
+SHA-256-Digest: dXpLXZpCVxw40xdNsOxpEiwagf1X18zOlX+dSc7vrog=
+
+Name: AIspace/cspTools/domains/DomainDiscrete$DomainPanel.class
+SHA-256-Digest: 2OxScQLeMVn5OS8p7bhkxgLeI2nuOGTpNm6nbGaL/xA=
+
+Name: AIspace/graphToolKit/images/search/select.png
+SHA-256-Digest: E1v0uwI/MLq9KVEgsrDjv18n2KnANQdkYZAJ/yllgKI=
+
+Name: AIspace/graphToolKit/help/HelpFrame.class
+SHA-256-Digest: t6hHpNjE93ETmtTOcRIIk1CrtWhuYDA8mh/d7N2WRnQ=
+
+Name: AIspace/graphToolKit/images/constraint/Reset.gif
+SHA-256-Digest: T9CFQyYTyYh1Gb/8+/CgikxDF4xiAAJjSqgwg/EV5wA=
+
+Name: AIspace/Constraint/ConstraintWindow.class
+SHA-256-Digest: NoI+ejy+tnveOmLW0Aku1Bm4zV2hktOd2/OO33Bh+kc=
+
+Name: AIspace/graphToolKit/images/dTree/viewKBCheckBox.png
+SHA-256-Digest: pGTYC87NLUOVLXaW/Yzg/XLbPQ864Rg+21NJCtee3e0=
+
+Name: AIspace/graphToolKit/images/deduction/createNewQuery.png
+SHA-256-Digest: rYDpg8QYMee+dyt4HUZvbJGiv/jquNz2TTiODaJ0foo=
+
+Name: AIspace/cspTools/CSPcanvas.class
+SHA-256-Digest: Iqrrl9ECJ+i9WURSgHD6MLf1VDsg9aiNsMfXMRkLhFM=
+
+Name: AIspace/graphToolKit/images/constraint/step.png
+SHA-256-Digest: gp+OLg5Nl3GxpPfIeEXUZ/bcvGEFzw4JSEHAGenQXOM=
+
+Name: AIspace/XMLReader/XMLParseException.class
+SHA-256-Digest: QyQ38ZuNmyYyMpuIrAkRfgxdaFTG2imHVZNTXbAs5eQ=
+
+Name: AIspace/cspTools/relations/RelationAnd.class
+SHA-256-Digest: beaYq8KdcJu2qZjs9hs+R87dHIjoJZoXXalogeiY3hQ=
+
+Name: AIspace/graphToolKit/images/common/newNode.png
+SHA-256-Digest: KkPmAeJ0XQ1p5WMKFGjSs2pkV3Pzfef1ynjTqfLOVkg=
+
+Name: AIspace/graphToolKit/elements/Entity.class
+SHA-256-Digest: /UbFrrJAXuoxkzlDyoll+5hIQOH7bIsx3m+bH/T8sX0=
+
+Name: AIspace/graphToolKit/images/search/gear.png
+SHA-256-Digest: tvMD8yhIZDN299Ig50VcYVcH5pB46BIvQJ37FcqW8SI=
+
+Name: AIspace/cspTools/VE/FactorStored.class
+SHA-256-Digest: 4BtbO7wF5dHRgHPD0clQfcaq1PkoesiwCBYIVbdcIWY=
+
+Name: AIspace/graphToolKit/images/deduction/movesubtree.png
+SHA-256-Digest: AaP899gG6Jwx6kcap8geGUDpKFVF/sRqMUfDmDMoqKQ=
+
+Name: AIspace/cspTools/IO.class
+SHA-256-Digest: Xa7nen4jwqQDx5fcJNmd+uxCUvgVLUPGq8PnjRA4mbg=
+
+Name: AIspace/graphToolKit/dialogs/EdgeDialog.class
+SHA-256-Digest: PnevIbyeKkJ0L8EqxRoX5FFlFK7tpichzjjva8hu7Uk=
+
+Name: AIspace/graphToolKit/images/neural/stepTarget.png
+SHA-256-Digest: BZsRRXHZfwNuG1x/QHvDGEXhI2lUOUZQddoT/YBAvnQ=
+
+Name: AIspace/cspTools/domains/DomainChooser.class
+SHA-256-Digest: S+aei4/63iwupkKFglvkSgJOu6yXYQShyJOo4DxYm4w=
+
+Name: AIspace/graphToolKit/InlineApplet.class
+SHA-256-Digest: /QQIkSDAXzJrJ+cWHqmw1theG9yBXUGPrxIclgBTmZ0=
+
+Name: saves/crossword1.xml
+SHA-256-Digest: 4wr1csihhJn2K/7rZcrdfYyR0JRTbUwEc6CQi0sONYI=
+
+Name: AIspace/cspTools/CSPApplet.class
+SHA-256-Digest: zq/JLtM+lfBfPrtXTxDdTh6pPl5eRft2S83154+mTKw=
+
+Name: AIspace/cspTools/relations/RelationBoolean.class
+SHA-256-Digest: D0wtGvqen2jlp9j+c0DGqK4b80TVIR7pH+jguw5tpb0=
+
+Name: AIspace/cspTools/VE/FactorStored$Itr.class
+SHA-256-Digest: X4JspxX82iThzE7D67OZzpyEW/8+fsa75VkqEs4JIns=
+
+Name: AIspace/graphToolKit/images/cspTools/addvar.png
+SHA-256-Digest: fjDQtvkdE1hGrDBc8b1JHkpaiFeYR1XcJNzNTd5cNnQ=
+
+Name: AIspace/cspTools/VE/FactorUpdatable.class
+SHA-256-Digest: BySrsDKagZLTBMlEOOkALTQjMnJPUteiVkAabTSta9Y=
+
+Name: AIspace/graphToolKit/images/deduction/inspectNode.png
+SHA-256-Digest: Erver46synxtCNwIiHwTWCyZSpMpJSBr6kXxg6WDnCY=
+
+Name: AIspace/cspTools/relations/RelationXOr.class
+SHA-256-Digest: t7ZhO+arD5Xk4T+PmUMJBPBYOQIXTOIlvXIsJNnch1A=
+
+Name: AIspace/graphToolKit/images/dTree/movesubtree.png
+SHA-256-Digest: AaP899gG6Jwx6kcap8geGUDpKFVF/sRqMUfDmDMoqKQ=
+
+Name: org/eclipse/jdt/internal/jarinjarloader/JarRsrcLoader.class
+SHA-256-Digest: PeNg2fIpraFNoBkDOvABkUUmFQbX35xsf2DX0T5gT5s=
+
+Name: AIspace/graphToolKit/images/constraint/stepback.png
+SHA-256-Digest: rw3oATIx0y+LVJogwoNPdwialusVuDBv2yTw8Vewpkg=
+
+Name: AIspace/Constraint/AutoFineStep.class
+SHA-256-Digest: ksejtfS6FxTRoPn2Jd6UBDTnXO0lbQh+BxE1KrMcti4=
+
+Name: AIspace/graphToolKit/images/stripsToCSP/stop.gif
+SHA-256-Digest: RkcDNV0ww6c3FI84C0TBWUTsgk4t+ZX0U/EK0HZnZmo=
+
+Name: AIspace/cspTools/CSPgraph.class
+SHA-256-Digest: hgtDTYmWhqZfASeu67RCYDhIq+Q4WMPIJU+sbQC4dw4=
+
+Name: AIspace/graphToolKit/dialogs/NodeDialog.class
+SHA-256-Digest: fxX0HPrnmGC8xsoCBMJXP44zzfwVEa8kkz3WOL1KD7M=
+
+Name: AIspace/graphToolKit/dialogs/TextFrame$1.class
+SHA-256-Digest: J19LhLkcHxf/EKIyJDPokHS6NT2cTmbdmUIROn/l+8A=
+
+Name: AIspace/cspTools/relations/RelationImply.class
+SHA-256-Digest: NEB3neNI8p2PDW9mK69UPaj1QYzkdhWWXpL/e5bzWNY=
+
+Name: org/eclipse/jdt/internal/jarinjarloader/RsrcURLStreamHandlerFact
+ ory.class
+SHA-256-Digest: bXzRkHQnUja+OVxHN6JUCJ8lYhnb2Tpxc5Uu+TcjXIY=
+
+Name: AIspace/XMLReader/XMLBlock.class
+SHA-256-Digest: yEEyatr7xG3wpvhOhCX6Vijol9JEop7pPBkESM5L4lA=
+
+Name: saves/simple1.xml
+SHA-256-Digest: ktrsGZnX955uq48QT+5afwVU1Rdwao9k74za+u2St68=
+
+Name: AIspace/graphToolKit/images/deduction/step.png
+SHA-256-Digest: gp+OLg5Nl3GxpPfIeEXUZ/bcvGEFzw4JSEHAGenQXOM=
+
+Name: AIspace/graphToolKit/images/dTree/toggleMonitoring.png
+SHA-256-Digest: hYEm7wbh9yI/2RSkat8EocO+Cu2qYTqgVHwdfufEqH0=
+
+Name: org/eclipse/jdt/internal/jarinjarloader/RsrcURLConnection.class
+SHA-256-Digest: Auqy2EhiqPlwpAy1wtmJ7+LWHSUQwXAP9YCHQMuZmsM=
+
+Name: AIspace/graphToolKit/images/constraint/close.gif
+SHA-256-Digest: TZOUyr2a8Ygdir9pL5ZILRo+d0G/ZvLx9geCe8Zq1O8=
+
+Name: AIspace/graphToolKit/dialogs/BasicPanel.class
+SHA-256-Digest: Gi5JsFHgwa9j4p7rFezITtl+1rJdYkuBFN+csy0EdU8=
+
+Name: AIspace/graphToolKit/GraphCanvas.class
+SHA-256-Digest: I8/MIe+ZJIpP6ERb+TXhAUYrjLtxnwXCBPVKDNiiFok=
+
+Name: AIspace/graphToolKit/images/stripsToCSP/invertgraph.gif
+SHA-256-Digest: FVh007d5DkFlI004nlkJcN5Az4Xf+6a2gLmAzLfCQog=
+
+Name: AIspace/graphToolKit/images/bayes/queryNode.png
+SHA-256-Digest: 05mG3qjArCnJ9Jnw3zczIU2ptop/jdc8GneYMQ0T8/E=
+
+Name: AIspace/graphToolKit/help/HelpCanvas.class
+SHA-256-Digest: n11cM1ksvNJ3mK5gyfhn5T1yuZXLTvrSe+tMF3R988Y=
+
+Name: AIspace/graphToolKit/images/search/stop.gif
+SHA-256-Digest: RkcDNV0ww6c3FI84C0TBWUTsgk4t+ZX0U/EK0HZnZmo=
+
+Name: AIspace/cspTools/VE/EltsIterator.class
+SHA-256-Digest: gJ4QQE718oG3l6vnaIUp4VlDnMZo+hJdWXcTPkGi540=
+
+Name: AIspace/graphToolKit/help/HelpMenu.class
+SHA-256-Digest: newNi+nRRgpjfQAp/a8jestPcVnbG5zfhuZJmGyH/o0=
+
+Name: AIspace/Constraint/InlineCanvas.class
+SHA-256-Digest: o4JFCjb5lWD1YIUsUlEYGolBgf2bi7iGaEtpIQZiFoI=
+
+Name: AIspace/cspTools/VE/VE_Variable.class
+SHA-256-Digest: KDfiJ9ETlRzurPYEVliQrsJwbt5qL6xi10eySNfi+Mw=
+
+Name: AIspace/graphToolKit/images/dTree/viewNodeInfo.png
+SHA-256-Digest: j5c/Pok7ixTrRLkYa+ylLlX1C9EWARn67cjnyHUCYTk=
+
+Name: saves/eightQueens.xml
+SHA-256-Digest: Nf3XMwdOLbwD/RqH1KZ01zJ69CvcVvJtz82xFk+d4KQ=
+
+Name: AIspace/cspTools/relations/RelationCrossword.class
+SHA-256-Digest: mjrYqwbwN+YI3U6qvAkilyWKUTwQgoIpMaNjUoecwpM=
+
+Name: AIspace/graphToolKit/elements/HistogramNode.class
+SHA-256-Digest: NaoTU2zWxJyPrcds9CmR9Xxk8r/65YMz/4+S0m877hw=
+
+Name: AIspace/graphToolKit/images/hill/batchrunner.png
+SHA-256-Digest: HgC99dDn4shjdHdmlsRFR6CyDwOg/waq75NZNJTeCkg=
+
+Name: AIspace/graphToolKit/images/neural/History24.gif
+SHA-256-Digest: QIKVBmIuDIdE5HxCT1ciX2+lw+AjOxYCk1WjHlECkJ8=
+
+Name: AIspace/graphToolKit/images/dTree/showPlot.png
+SHA-256-Digest: aRQ3y7MbcBO4C5UPaQK8tM2g7dr2aaPCVOB3PmeSrXg=
+
+Name: AIspace/graphToolKit/images/dTree/arrowLeft.png
+SHA-256-Digest: fg547UTgDc6pBnR4P76A5H+EnjJ2+Tqta6TodoaoxNA=
+
+Name: AIspace/graphToolKit/images/dTree/Edit24.gif
+SHA-256-Digest: SZHDYP0h8OGMtO5kifoumnlBew14vyQUVHqCKaYVmVY=
+
+Name: saves/scheduling2.xml
+SHA-256-Digest: gwt3RgIoUYYB+l+Km8HfsPga+JTFe+IPl1VK14Z4UzQ=
+
+Name: AIspace/graphToolKit/elements/Point.class
+SHA-256-Digest: BAIqyACT2buVIkWZ+R/DrUvQd0dwVqlZrQETbgPeY/k=
+
+Name: saves/crossword2.xml
+SHA-256-Digest: TKS8EZIEZK2l/FbJ0dbH1quDRiH+RMZNT2Kk/9qiFhc=
+
+Name: AIspace/graphToolKit/images/dTree/arrowRight.png
+SHA-256-Digest: dXpLXZpCVxw40xdNsOxpEiwagf1X18zOlX+dSc7vrog=
+
+Name: AIspace/graphToolKit/images/search/Reset.gif
+SHA-256-Digest: T9CFQyYTyYh1Gb/8+/CgikxDF4xiAAJjSqgwg/EV5wA=
+
+Name: AIspace/graphToolKit/images/bayes/viewDecision.png
+SHA-256-Digest: jvHroMRyrkNDiIOhjKFfygVY4B0VNC5Qg2OALdfbZl4=
+
+Name: AIspace/graphToolKit/elements/Node.class
+SHA-256-Digest: kK9WX/UsOzZ55wKaSY1oVAFktQq09xwF1o4nRq6nmRY=
+
+Name: AIspace/cspTools/relations/RelationLength.class
+SHA-256-Digest: V4dMxd2EmOYrfDMF4U2XJMYdqUilw66utQXCZPEYJ84=
+
+Name: org/eclipse/jdt/internal/jarinjarloader/JIJConstants.class
+SHA-256-Digest: ZT8qyz1sZhr2SQC++pbKck1kiJ+MnDGubHMj0uERiWU=
+
+Name: AIspace/cspTools/Counter.class
+SHA-256-Digest: i7nWyrCJqwyZKiM/0K7KztwFRB5czZA5Kzox5ddUef4=
+
+Name: AIspace/cspTools/dialogs/RelationDialog.class
+SHA-256-Digest: q2ADA4HTzSPjMKEt2nXUopy+LyK2e5tgGLfVu2XvHcw=
+
+Name: AIspace/Constraint/elements/ConstraintVariable.class
+SHA-256-Digest: /XFOMgcNUvzyQzR4EBi1FihfLZDjJwJvNtb/P4QERXs=
+
+Name: AIspace/graphToolKit/images/bayes/Zoom24.gif
+SHA-256-Digest: oshhr4jI9zf1JfktoVygCJVtMoxmnUx7vwkAlwlIRJA=
+
+Name: AIspace/graphToolKit/images/constraint/gear.png
+SHA-256-Digest: tvMD8yhIZDN299Ig50VcYVcH5pB46BIvQJ37FcqW8SI=
+
+Name: AIspace/cspTools/dialogs/CSPDescriptionDialog.class
+SHA-256-Digest: mNRVmDlam853BlGV+bYxoo3Jo1/XFHmDsAHqkyD4kaU=
+
+Name: AIspace/cspTools/relations/RelationPanel.class
+SHA-256-Digest: aJ1aQ86rFnoZbuIsz7qIbmY869asTEZ8/nICMYNg4aY=
+
+Name: AIspace/cspTools/domains/DomainDiscrete.class
+SHA-256-Digest: C03mXkXcI02E8xJ3LzrLnq37eetYZDmWcMKRLZNu+4c=
+
+Name: AIspace/cspTools/domains/DomainInteger.class
+SHA-256-Digest: AeuUpN7sEimt4mP7bTKLltoJtzQN1uacZ20HVgx1MaA=
+
+Name: AIspace/cspTools/relations/RelationLessThan.class
+SHA-256-Digest: ivBzllJtm//WCN6M8I/mfDG5PbALBbRRIfPfADz7fTM=
+
+Name: AIspace/cspTools/relations/RelationFactor.class
+SHA-256-Digest: k4bTXPI4hgYeVbZaS/x7/jZ+JVl7c+5AHu/JHHKL8KY=
+
+Name: AIspace/graphToolKit/dialogs/MessageFrame.class
+SHA-256-Digest: HIQwbrCNAXDs+IvVofFn6b+pTvl1PpZh/w8uIUfQzHw=
+
+Name: AIspace/graphToolKit/dialogs/MessageDialog.class
+SHA-256-Digest: Ml3unGGwrKxdUATZHkWd2dQjtb8d2y72TB+56QOZaaA=
+
+Name: AIspace/cspTools/relations/RelationRegular.class
+SHA-256-Digest: UjL3jxMYtpPDfIcBfgmlCSdAWz7uWqZ+/w+nA+WuKfs=
+
+Name: AIspace/Constraint/elements/CnsConstraintEdge$StepInformation.cl
+ ass
+SHA-256-Digest: Z7tApLDlPNB9oj0fTjnicSAuPtcCnC9G2lwCf7GBD1o=
+
+Name: AIspace/graphToolKit/images/hill/step.png
+SHA-256-Digest: gp+OLg5Nl3GxpPfIeEXUZ/bcvGEFzw4JSEHAGenQXOM=
+
+Name: AIspace/graphToolKit/images/hill/gear.png
+SHA-256-Digest: tvMD8yhIZDN299Ig50VcYVcH5pB46BIvQJ37FcqW8SI=
+
+Name: AIspace/Constraint/ConstraintApplet.class
+SHA-256-Digest: TvxxI9B25UkIy9kbjPCvgJ6qFiTfpWZFKHuYzG7YfMo=
+
+Name: AIspace/Constraint/AutoSolve.class
+SHA-256-Digest: iFdQTpwLDqcYSc2eIdGH9rEwISX3W4oQ9IORethnPyU=
+
+Name: AIspace/graphToolKit/images/cspTools/createconstraint.png
+SHA-256-Digest: hhxNcqaFxTU/mOnP26RS1DiV2W1O06gVQB6/eiGK4jI=
+
+Name: AIspace/graphToolKit/images/bayes/toggleMonitoring.png
+SHA-256-Digest: hYEm7wbh9yI/2RSkat8EocO+Cu2qYTqgVHwdfufEqH0=
+
+Name: SampleProblems.txt
+SHA-256-Digest: M+GT6RWDqYZCObf0kX//px/jPMGnoS+0Tg07UbLdXnw=
+
+Name: AIspace/graphToolKit/dialogs/TextFrame$CaretListenerLabel$1.clas
+ s
+SHA-256-Digest: +A4Hi9ClPHMtcBT9YgtjUXTScBWZO0Qk0IqcHFaN5P0=
+
+Name: AIspace/graphToolKit/images/search/viewNodeInfo.png
+SHA-256-Digest: j5c/Pok7ixTrRLkYa+ylLlX1C9EWARn67cjnyHUCYTk=
+
+Name: AIspace/graphToolKit/images/bayes/quiz.gif
+SHA-256-Digest: SHOLXodBmeeQgK8UiUd82cRaKeOa7tM/VrcdCuI10Jk=
+
+Name: AIspace/graphToolKit/images/bayes/viewProbTable.png
+SHA-256-Digest: FsQg0FDxu9VErJa/N4MrOAz+pzA8rKEUsszCK7eW2Ak=
+
+Name: AIspace/graphToolKit/images/stripsToCSP/select.png
+SHA-256-Digest: E1v0uwI/MLq9KVEgsrDjv18n2KnANQdkYZAJ/yllgKI=
+
+Name: AIspace/graphToolKit/images/cspTools/gear.png
+SHA-256-Digest: tvMD8yhIZDN299Ig50VcYVcH5pB46BIvQJ37FcqW8SI=
+
+Name: AIspace/graphToolKit/images/hill/showPlot.png
+SHA-256-Digest: aRQ3y7MbcBO4C5UPaQK8tM2g7dr2aaPCVOB3PmeSrXg=
+
+Name: AIspace/cspTools/relations/RelationLnEq.class
+SHA-256-Digest: hHZ0ltlAd9C+f2S7d4VlfRrUsh9tymwncCycfnZxWEc=
+
+Name: AIspace/cspTools/relations/RelationLnGt.class
+SHA-256-Digest: TUKjHI3vh559dTuFJamZdNfbYp0HILqSLZvttjOeib4=
+
+Name: AIspace/cspTools/elements/CSPVariable$VariablePanel.class
+SHA-256-Digest: kHv/WM9ZPONEGUbb+7IGGyIUEnpnePRoeblMfj5ARYE=
+
+Name: AIspace/graphToolKit/images/dTree/step.png
+SHA-256-Digest: gp+OLg5Nl3GxpPfIeEXUZ/bcvGEFzw4JSEHAGenQXOM=
+
+Name: AIspace/cspTools/relations/RelationGreaterThan.class
+SHA-256-Digest: 5E3jpUdodpxkHwx5KSo2z0RCuvR8MMt8DeiPCtpGq9c=
+
+Name: AIspace/cspTools/relations/RelationChooser.class
+SHA-256-Digest: k0k2d8YTktl4J2Rw+eHCqX+52YEUCPDjqjYNyvLAjZM=
+
+Name: AIspace/graphToolKit/dialogs/TextFrame$CaretListenerLabel.class
+SHA-256-Digest: XvHHRNluNlh+zAwIS+syAJp+DSMyd6DkH9j+hP9F8GI=
+
+Name: AIspace/graphToolKit/images/dTree/splitNode.png
+SHA-256-Digest: T1Ixm2Ibc06S8+23j4qipBXB3D4dEx6lBu0OhjkSKEk=
+
+Name: AIspace/cspTools/relations/RelationEquality.class
+SHA-256-Digest: lCVg968kqTsNFuUQ6d7LPoVe5OTa9zeZYtRnlm9uUqI=
+
+Name: AIspace/cspTools/CSPWindow.class
+SHA-256-Digest: c2K7sMU7AwUTn+ihWBNX1bTgXcoQUijgWoM9Kwq1fW0=
+
+Name: AIspace/Constraint/dialogs/ConstraintHelpCanvas.class
+SHA-256-Digest: XcZ2zf5z7bu6w/EHlhu1wyhPEOQY0msYZjalnW0r53o=
+
+Name: AIspace/graphToolKit/dialogs/TextFrame.class
+SHA-256-Digest: L8/vC4TFAdsvEaSW+ENTRpVzkxiycgfzYb0J4GMbd74=
+
+Name: AIspace/graphToolKit/images/deduction/select.png
+SHA-256-Digest: E1v0uwI/MLq9KVEgsrDjv18n2KnANQdkYZAJ/yllgKI=
+
+Name: AIspace/cspTools/relations/RelationFalse.class
+SHA-256-Digest: Bdqb5rPOlFi+DBNkRkJ2+bk9mAZOyQJy0h4HPNAkWdo=
+
+Name: AIspace/graphToolKit/dialogs/OpenLocationDialog.class
+SHA-256-Digest: 5tPKkQpMKJfxtbsGhZoIkkrskJoYeHGBlIZm97j1cHw=
+
+Name: AIspace/cspTools/Relation.class
+SHA-256-Digest: zUNJoz25XTQEfYj9yYAIWe3/NMO2MBwdWtZOWJWTQGA=
+
+Name: AIspace/graphToolKit/images/deduction/Reset.gif
+SHA-256-Digest: T9CFQyYTyYh1Gb/8+/CgikxDF4xiAAJjSqgwg/EV5wA=
+
+Name: AIspace/graphToolKit/images/stripsToCSP/step.png
+SHA-256-Digest: gp+OLg5Nl3GxpPfIeEXUZ/bcvGEFzw4JSEHAGenQXOM=
+
+Name: AIspace/graphToolKit/dialogs/AboutDialog.class
+SHA-256-Digest: 8rE0pVJdRYboOZgQ6jMw96GzsKJG9eGtLhwbOFoR8Uo=
+
+Name: AIspace/graphToolKit/images/dTree/testNew.png
+SHA-256-Digest: QAiParHiIp0xIfB2rl0OCXBWKCsOxc+oKvEqqIsWpUo=
+
+Name: AIspace/graphToolKit/images/bayes/noforgettingarcs.png
+SHA-256-Digest: YZy4CbdCKXMvnRMluWIc+rqiMH7yU5c91fMidm5O0nQ=
+
+Name: AIspace/graphToolKit/dialogs/DescriptionDialog.class
+SHA-256-Digest: 6cZIpU50lcdI0Xlw/WPFU4YlI2qRCJF6fIks5S9lilk=
+
+Name: AIspace/cspTools/relations/RelationEquals.class
+SHA-256-Digest: Z77vgJpSgnSkUUkkC0e/i7p00HnvHDI0XvuR7xX63R0=
+
+Name: AIspace/cspTools/domains/DomainBoolean.class
+SHA-256-Digest: WLFHVs7+1KjZAXjGjsbaSwsC41zrNt/RqfCZrpadSmQ=
+
+Name: AIspace/Constraint/elements/CnsConstraintEdge.class
+SHA-256-Digest: w58tdnKhsPyVw5kj3lZ/h9G7kave+qcMWAEDLebVjgk=
+
+Name: AIspace/graphToolKit/images/deduction/gear.png
+SHA-256-Digest: tvMD8yhIZDN299Ig50VcYVcH5pB46BIvQJ37FcqW8SI=
+
+Name: AIspace/cspTools/domains/DomainString.class
+SHA-256-Digest: EXYjIozWbyC7HjeVpGscdVK7VQlfJqBnMbhaz2WcC+k=
+
+Name: AIspace/Constraint/elements/ConstraintVariable$StepInformation.c
+ lass
+SHA-256-Digest: ebBmDZqz0v20llZ+HwNSQ1upA8Lkouh5jR9bgaRpaJE=
+
+Name: AIspace/cspTools/dialogs/CSPTextFrame.class
+SHA-256-Digest: +9JBmm7fTKbclLHJECcXSKwIESNR3ndWcjItwa5z9v0=
+
+Name: AIspace/graphToolKit/images/common/setProp.png
+SHA-256-Digest: JQYvnsuH4Nw3nOhHeZqOEjBslEXmm98gS2LpvPd0UEY=
+
+Name: AIspace/cspTools/relations/ReorderDialog.class
+SHA-256-Digest: 1gqa2HbadG6OE3TX91U0Gzc56WprZWyFpKxSotMxB0U=
+
+Name: AIspace/graphToolKit/images/constraint/stop.gif
+SHA-256-Digest: RkcDNV0ww6c3FI84C0TBWUTsgk4t+ZX0U/EK0HZnZmo=
+
+Name: org/eclipse/jdt/internal/jarinjarloader/JarRsrcLoader$ManifestIn
+ fo.class
+SHA-256-Digest: K0C2au5Bjar1JqzudZunU9XbWzIv8fW0XgtJ+walQCI=
+
+Name: AIspace/cspTools/VE/VE_Variable$Itr.class
+SHA-256-Digest: Zdxyta7gfdlwCo/MoMIalrc+sGquaLlb0Uj759wlLLU=
+
+Name: AIspace/cspTools/relations/FactorPanel$LogicalTableModel.class
+SHA-256-Digest: jwsZ9McADd1GVZ6i0oBJuR91pPBcwCR+y0wx0VTOh54=
+
+Name: AIspace/graphToolKit/GraphApplet.class
+SHA-256-Digest: 7J4ZccFJrKl60qA0FZc8P1li0yRC5G1/wF7NETCvsks=
+
+Name: org/eclipse/jdt/internal/jarinjarloader/RsrcURLStreamHandler.cla
+ ss
+SHA-256-Digest: oSbRcTLnLRKhLzIAMRbwECbCiluKbgUgsNM92mFSGBM=
+

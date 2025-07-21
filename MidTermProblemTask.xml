@@ -1,0 +1,250 @@
+<CSPIF VERSION="0.01">
+<CSP>
+<NAME>Diplomatic Seating Arrangement</NAME>
+<DESCRIPTION>
+	<SHORT>High-stakes diplomatic gathering seating for 8 ambassadors</SHORT>
+	<DETAILED>Arrange 8 ambassadors from different nations around a circular table with specific diplomatic constraints</DETAILED>
+</DESCRIPTION>
+
+<!-- Variables representing each ambassador's position (1-8 around circular table) -->
+<VARIABLE TYPE="String">
+	<NAME>FSC</NAME>
+	<VALUE>1</VALUE>
+	<VALUE>2</VALUE>
+	<VALUE>3</VALUE>
+	<VALUE>4</VALUE>
+	<VALUE>5</VALUE>
+	<VALUE>6</VALUE>
+	<VALUE>7</VALUE>
+	<VALUE>8</VALUE>
+	<PROPERTY>position = (100, 100)</PROPERTY>
+</VARIABLE>
+
+<VARIABLE TYPE="String">
+	<NAME>ZLO</NAME>
+	<VALUE>1</VALUE>
+	<VALUE>2</VALUE>
+	<VALUE>3</VALUE>
+	<VALUE>4</VALUE>
+	<VALUE>5</VALUE>
+	<VALUE>6</VALUE>
+	<VALUE>7</VALUE>
+	<VALUE>8</VALUE>
+	<PROPERTY>position = (300, 100)</PROPERTY>
+</VARIABLE>
+
+<VARIABLE TYPE="String">
+	<NAME>TSA</NAME>
+	<VALUE>1</VALUE>
+	<VALUE>2</VALUE>
+	<VALUE>3</VALUE>
+	<VALUE>4</VALUE>
+	<VALUE>5</VALUE>
+	<VALUE>6</VALUE>
+	<VALUE>7</VALUE>
+	<VALUE>8</VALUE>
+	<PROPERTY>position = (500, 100)</PROPERTY>
+</VARIABLE>
+
+<VARIABLE TYPE="String">
+	<NAME>UAL</NAME>
+	<VALUE>1</VALUE>
+	<VALUE>2</VALUE>
+	<VALUE>3</VALUE>
+	<VALUE>4</VALUE>
+	<VALUE>5</VALUE>
+	<VALUE>6</VALUE>
+	<VALUE>7</VALUE>
+	<VALUE>8</VALUE>
+	<PROPERTY>position = (700, 100)</PROPERTY>
+</VARIABLE>
+
+<VARIABLE TYPE="String">
+	<NAME>ROL</NAME>
+	<VALUE>1</VALUE>
+	<VALUE>2</VALUE>
+	<VALUE>3</VALUE>
+	<VALUE>4</VALUE>
+	<VALUE>5</VALUE>
+	<VALUE>6</VALUE>
+	<VALUE>7</VALUE>
+	<VALUE>8</VALUE>
+	<PROPERTY>position = (100, 300)</PROPERTY>
+</VARIABLE>
+
+<VARIABLE TYPE="String">
+	<NAME>SUN</NAME>
+	<VALUE>1</VALUE>
+	<VALUE>2</VALUE>
+	<VALUE>3</VALUE>
+	<VALUE>4</VALUE>
+	<VALUE>5</VALUE>
+	<VALUE>6</VALUE>
+	<VALUE>7</VALUE>
+	<VALUE>8</VALUE>
+	<PROPERTY>position = (300, 300)</PROPERTY>
+</VARIABLE>
+
+<VARIABLE TYPE="String">
+	<NAME>KOV</NAME>
+	<VALUE>1</VALUE>
+	<VALUE>2</VALUE>
+	<VALUE>3</VALUE>
+	<VALUE>4</VALUE>
+	<VALUE>5</VALUE>
+	<VALUE>6</VALUE>
+	<VALUE>7</VALUE>
+	<VALUE>8</VALUE>
+	<PROPERTY>position = (500, 300)</PROPERTY>
+</VARIABLE>
+
+<VARIABLE TYPE="String">
+	<NAME>ZAV</NAME>
+	<VALUE>1</VALUE>
+	<VALUE>2</VALUE>
+	<VALUE>3</VALUE>
+	<VALUE>4</VALUE>
+	<VALUE>5</VALUE>
+	<VALUE>6</VALUE>
+	<VALUE>7</VALUE>
+	<VALUE>8</VALUE>
+	<PROPERTY>position = (700, 300)</PROPERTY>
+</VARIABLE>
+
+<!-- Constraint: FSC (host) must be at position 1 -->
+<CONSTRAINT TYPE="Custom">
+	<CUSTOMNAME>Host Position</CUSTOMNAME>
+	<GIVEN>FSC</GIVEN>
+	<TABLE>
+		T F F F F F F F 
+	</TABLE>
+	<PROPERTY>position = (150, 150)</PROPERTY>
+</CONSTRAINT>
+
+<!-- Constraint: All different positions (AllDiff) for remaining variables -->
+<CONSTRAINT TYPE="Custom">
+	<CUSTOMNAME>All Different</CUSTOMNAME>
+	<GIVEN>ZLO</GIVEN>
+	<GIVEN>TSA</GIVEN>
+	<TABLE>
+		F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F 
+	</TABLE>
+	<PROPERTY>position = (400, 50)</PROPERTY>
+</CONSTRAINT>
+
+<CONSTRAINT TYPE="Custom">
+	<CUSTOMNAME>All Different</CUSTOMNAME>
+	<GIVEN>ZLO</GIVEN>
+	<GIVEN>UAL</GIVEN>
+	<TABLE>
+		F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F 
+	</TABLE>
+	<PROPERTY>position = (400, 100)</PROPERTY>
+</CONSTRAINT>
+
+<CONSTRAINT TYPE="Custom">
+	<CUSTOMNAME>All Different</CUSTOMNAME>
+	<GIVEN>ZLO</GIVEN>
+	<GIVEN>ROL</GIVEN>
+	<TABLE>
+		F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F 
+	</TABLE>
+	<PROPERTY>position = (400, 150)</PROPERTY>
+</CONSTRAINT>
+
+<CONSTRAINT TYPE="Custom">
+	<CUSTOMNAME>All Different</CUSTOMNAME>
+	<GIVEN>ZLO</GIVEN>
+	<GIVEN>SUN</GIVEN>
+	<TABLE>
+		F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F 
+	</TABLE>
+	<PROPERTY>position = (400, 200)</PROPERTY>
+</CONSTRAINT>
+
+<CONSTRAINT TYPE="Custom">
+	<CUSTOMNAME>All Different</CUSTOMNAME>
+	<GIVEN>ZLO</GIVEN>
+	<GIVEN>KOV</GIVEN>
+	<TABLE>
+		F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F 
+	</TABLE>
+	<PROPERTY>position = (400, 250)</PROPERTY>
+</CONSTRAINT>
+
+<CONSTRAINT TYPE="Custom">
+	<CUSTOMNAME>All Different</CUSTOMNAME>
+	<GIVEN>ZLO</GIVEN>
+	<GIVEN>ZAV</GIVEN>
+	<TABLE>
+		F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F 
+	</TABLE>
+	<PROPERTY>position = (400, 300)</PROPERTY>
+</CONSTRAINT>
+
+<CONSTRAINT TYPE="Custom">
+	<CUSTOMNAME>All Different</CUSTOMNAME>
+	<GIVEN>TSA</GIVEN>
+	<GIVEN>UAL</GIVEN>
+	<TABLE>
+		F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F T T T T T T T T F 
+	</TABLE>
+	<PROPERTY>position = (400, 350)</PROPERTY>
+</CONSTRAINT>
+
+<!-- Constraint: FSC cannot sit next to TSA, ZLO, or ZAV -->
+<!-- Position 1 is adjacent to positions 2 and 8 -->
+<CONSTRAINT TYPE="Custom">
+	<CUSTOMNAME>FSC Not Next to TSA</CUSTOMNAME>
+	<GIVEN>FSC</GIVEN>
+	<GIVEN>TSA</GIVEN>
+	<TABLE>
+		T F T T T T T F F T T T T T T T F T T T T T T T F T T T T T T T F T T T T T T T F T T T T T T T F T T T T T T T F T T T T T T T 
+	</TABLE>
+	<PROPERTY>position = (600, 150)</PROPERTY>
+</CONSTRAINT>
+
+<CONSTRAINT TYPE="Custom">
+	<CUSTOMNAME>FSC Not Next to ZLO</CUSTOMNAME>
+	<GIVEN>FSC</GIVEN>
+	<GIVEN>ZLO</GIVEN>
+	<TABLE>
+		T F T T T T T F F T T T T T T T F T T T T T T T F T T T T T T T F T T T T T T T F T T T T T T T F T T T T T T T F T T T T T T T 
+	</TABLE>
+	<PROPERTY>position = (600, 200)</PROPERTY>
+</CONSTRAINT>
+
+<CONSTRAINT TYPE="Custom">
+	<CUSTOMNAME>FSC Not Next to ZAV</CUSTOMNAME>
+	<GIVEN>FSC</GIVEN>
+	<GIVEN>ZAV</GIVEN>
+	<TABLE>
+		T F T T T T T F F T T T T T T T F T T T T T T T F T T T T T T T F T T T T T T T F T T T T T T T F T T T T T T T F T T T T T T T 
+	</TABLE>
+	<PROPERTY>position = (600, 250)</PROPERTY>
+</CONSTRAINT>
+
+<!-- Constraint: SUN cannot sit next to ZLO -->
+<CONSTRAINT TYPE="Custom">
+	<CUSTOMNAME>SUN Not Next to ZLO</CUSTOMNAME>
+	<GIVEN>SUN</GIVEN>
+	<GIVEN>ZLO</GIVEN>
+	<TABLE>
+		T F T T T T T F F T T T T T T T F T T T T T T T F T T T T T T T F T T T T T T T F T T T T T T T F T T T T T T T F T T T T T T T 
+	</TABLE>
+	<PROPERTY>position = (600, 300)</PROPERTY>
+</CONSTRAINT>
+
+<!-- Constraint: FSC must sit next to UAL or ROL (position 1 is adjacent to 2 and 8) -->
+<CONSTRAINT TYPE="Custom">
+	<CUSTOMNAME>FSC Next to UAL or ROL</CUSTOMNAME>
+	<GIVEN>UAL</GIVEN>
+	<GIVEN>ROL</GIVEN>
+	<TABLE>
+		F T F F F F F T T F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F 
+	</TABLE>
+	<PROPERTY>position = (150, 400)</PROPERTY>
+</CONSTRAINT>
+
+</CSP>
+</CSPIF>

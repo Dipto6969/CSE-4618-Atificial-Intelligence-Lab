@@ -1,0 +1,9 @@
+Simple Problem 1, simple1.xml, This simple CSP uses three integer variables and two constraints.
+Simple Problem 2, simple2.xml, This simple CSP uses three integer variables and three constraints.
+Scheduling Problem 1, scheduling1.xml, This CSP uses integer variables and some available integer constraints to model an example scheduling problem of trying to schedule meeting times. 
+Scheduling Problem 2, scheduling2.xml, This CSP is similar to 'Scheduling Problem 1' but more difficult to solve and uses some custom constraints. 
+Crossword Problem 1, crossword1.xml, This is a 3x3 crossword problem (where A1, A2, A3 are the three rows across; and D1, D2, D3 are the three columns). The values of the domains are 3-letter words.
+Crossword Problem 2, crossword2.xml, This is a simple crossword problem with five variables and five constraints.
+Five Queens Problem, fiveQueens.xml, This models the problem of placing 5 queens on a 5x5 chessboard such that no two queens can attack each other.
+Eight Queens Problem, eightQueens.xml, Similar to "Five Queens Problem," except this time with eight queens on an 8x8 chessboard.
+
