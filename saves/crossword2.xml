@@ -1,0 +1,84 @@
+<CSPIF VERSION="0.01">
+<CSP>
+<NAME>Crossword Problem 2</NAME>
+<DESCRIPTION>
+	<SHORT>This is a simple crossword problem with five variables and five constraints.</SHORT>
+	<DETAILED></DETAILED>
+</DESCRIPTION>
+<VARIABLE TYPE="String">
+	<NAME>oneacross</NAME>
+	<VALUE>ant</VALUE>
+	<VALUE>big</VALUE>
+	<VALUE>bus</VALUE>
+	<VALUE>car</VALUE>
+	<VALUE>has</VALUE>
+	<PROPERTY>position = (7107.909, 5182.7197)</PROPERTY>
+</VARIABLE>
+<VARIABLE TYPE="String">
+	<NAME>onedown</NAME>
+	<VALUE>book</VALUE>
+	<VALUE>buys</VALUE>
+	<VALUE>hold</VALUE>
+	<VALUE>lane</VALUE>
+	<VALUE>year</VALUE>
+	<PROPERTY>position = (7216.5527, 5414.9688)</PROPERTY>
+</VARIABLE>
+<VARIABLE TYPE="String">
+	<NAME>twodown</NAME>
+	<VALUE>ginger</VALUE>
+	<VALUE>search</VALUE>
+	<VALUE>symbol</VALUE>
+	<VALUE>syntax</VALUE>
+	<PROPERTY>position = (7281.13, 5069.3945)</PROPERTY>
+</VARIABLE>
+<VARIABLE TYPE="String">
+	<NAME>threeacross</NAME>
+	<VALUE>book</VALUE>
+	<VALUE>buys</VALUE>
+	<VALUE>hold</VALUE>
+	<VALUE>land</VALUE>
+	<VALUE>year</VALUE>
+	<PROPERTY>position = (7534.202, 5400.134)</PROPERTY>
+</VARIABLE>
+<VARIABLE TYPE="String">
+	<NAME>fouracross</NAME>
+	<VALUE>ant</VALUE>
+	<VALUE>big</VALUE>
+	<VALUE>bus</VALUE>
+	<VALUE>car</VALUE>
+	<VALUE>has</VALUE>
+	<PROPERTY>position = (7576.0903, 5065.0312)</PROPERTY>
+</VARIABLE>
+<CONSTRAINT TYPE="Crossword">
+	<GIVEN>oneacross</GIVEN>
+	<GIVEN>onedown</GIVEN>
+	<ARGS> 1 1 </ARGS>
+	<PROPERTY>position = (7162.231, 5298.844)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Crossword">
+	<GIVEN>oneacross</GIVEN>
+	<GIVEN>twodown</GIVEN>
+	<ARGS> 3 1 </ARGS>
+	<PROPERTY>position = (7194.5195, 5126.057)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Crossword">
+	<GIVEN>twodown</GIVEN>
+	<GIVEN>threeacross</GIVEN>
+	<ARGS> 3 3 </ARGS>
+	<PROPERTY>position = (7407.666, 5234.764)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Crossword">
+	<GIVEN>onedown</GIVEN>
+	<GIVEN>threeacross</GIVEN>
+	<ARGS> 3 1 </ARGS>
+	<PROPERTY>position = (7375.3774, 5407.5513)</PROPERTY>
+</CONSTRAINT>
+<CONSTRAINT TYPE="Crossword">
+	<GIVEN>fouracross</GIVEN>
+	<GIVEN>twodown</GIVEN>
+	<ARGS> 1 5 </ARGS>
+	<PROPERTY>position = (7428.6104, 5067.213)</PROPERTY>
+</CONSTRAINT>
+</CSP>
+</CSPIF>
+
